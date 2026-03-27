@@ -5,6 +5,7 @@ Name credit goes to my grandma who misspelled Pokémon
 
 This project uses PyGame library.
 https://www.pygame.org/docs/
+
 Used font is Dogica-Pixel by Roberto Mocci
 https://www.dafont.com/dogica.font
 
