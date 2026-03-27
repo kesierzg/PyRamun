@@ -15,6 +15,7 @@ Graphics and sounds are all original creations of mine
 
 This project is free for personal use.
 Use, distribution, or modification of sounds is NOT allowed without explicit permission from the author.
+However, if you ignore this and use them without permission you have to 1 vs 1 me in Quake or Counter-Strike 2
 
 ## DISCLAIMER
 
