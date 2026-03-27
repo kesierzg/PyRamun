@@ -14,11 +14,15 @@ Make sure you have Python 3 installed.
 
 Install required packages:
 
-pip install -r requirements.txt
+Windows: pip install -r requirements.txt
+
+macOS/Linux: pip3 install -r requirements.txt
 
 ### 2. Run the game
 
-python main.py
+Windows: python main.py
+
+macOS/Linux: python3 main.py
 
 Final release will include Windows and macOS packages
 
