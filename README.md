@@ -28,6 +28,13 @@ macOS/Linux: python3 main.py
 
 that was a lie, mabye next time
 
+## HOW TO PLAY
+
+← →  ↑ ↓ - select with arrows
+ENTER - confirm
+R - change resolution (240p, 480p, 720p)
+N - toggle dark mode
+
 ## LICENSE - GREG-LICENSE V1.0
 
 This project is free for personal use.
