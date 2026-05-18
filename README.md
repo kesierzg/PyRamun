@@ -25,6 +25,7 @@ Windows: python main.py
 macOS/Linux: python3 main.py
 
 ~~Final release will include Windows and macOS packages~~
+
 that was a lie, mabye next time
 
 ## LICENSE - GREG-LICENSE V1.0
@@ -36,16 +37,19 @@ However, if you ignore this and use them without permission you have to 1 vs 1 m
 ## DISCLAIMER
 
 This project uses PyGame library.
-https://www.pygame.org/docs/
+-- https://www.pygame.org/docs/
 
 Used font is Dogica-Pixel by Roberto Mocci
-https://www.dafont.com/dogica.font
+-- https://www.dafont.com/dogica.font
 
 Graphics and sounds are all original creations of mine
+
 Graphics are made using Pixilart
+
 Main menu and battle theme were made using BeepBox 
 
 This project is not affiliated with or endorsed by Nintendo, The Pokémon Company or Game Freak.
 
 All code is original and no copyrighted assets are used.
+
 This project is for educational purposes only and not for commercial use.
