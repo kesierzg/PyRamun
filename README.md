@@ -24,7 +24,8 @@ Windows: python main.py
 
 macOS/Linux: python3 main.py
 
-Final release will include Windows and macOS packages
+~~Final release will include Windows and macOS packages~~
+that was a lie, mabye next time
 
 ## LICENSE - GREG-LICENSE V1.0
 
